@@ -24,14 +24,17 @@ http://www.hug.com.ph/
 
 #### Software Developer
 Synerteq Systems Solutions And Services Inc. (2016 - 2018)
+
 http://synerteqsys.com/
 
 #### Software Developer
-LiannetSys Inc
-http://liannetsys.com/ (2018 - 2021)
+LiannetSys Inc (2018 - 2021)
+
+http://liannetsys.com/ 
 
 #### Software Developer
 ZK TECH I.T. SOLUTIONS (2021 - present)
+
 https://zktech.solutions/
 
 
