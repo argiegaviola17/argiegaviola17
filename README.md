@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on https://zktech.solutions/
+- 📫 How to reach me: ghie.gaviola17@gmail.com
+- :round_pushpin: My location is Navotas, Metro Manila
 
+- 
 <!--
 **argiegaviola17/argiegaviola17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
