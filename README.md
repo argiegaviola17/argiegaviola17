@@ -4,6 +4,13 @@
 - :round_pushpin: My location is Navotas, Metro Manila
 
 ### College
+
+Navotas Polytechnic College (2012 1st sem)
+College level in Computer System Programming
+
+Navotas Polytechnic College (2012 - 2016)
+College graduate in Bachelor of Science in Computer Science
+
 5th and 6th year contestant for programming competetion in UMAK , 2015 and 2016 and java programming and c#.net
  
 2nd place winner for programming competition in navotas polytecnic college
