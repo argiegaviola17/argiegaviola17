@@ -38,6 +38,26 @@ ZK TECH I.T. SOLUTIONS (2021 - present)
 https://zktech.solutions/
 
 
+### Software Tools/Programming Languages 
+- elastic search
+- AWS server
+- oracle database
+- react-native
+- quasar
+- Solidity Language (blockchain development)
+- swift
+- objective c
+- mysql
+- excel vba programming
+- nestjs
+- node
+- Java
+- php
+- photoshop
+- javascript, ajax, jquery, json
+- html5, css3
+- C#.NET
+
 <!--
 **argiegaviola17/argiegaviola17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
