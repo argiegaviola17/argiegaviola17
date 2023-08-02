@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/argie"><img src="https://api.daily.dev/devcards/f6da7c6cae924cc4b498fa0d1ddcbf29.png?r=7dj" width="400" alt="argie gaviola's Dev Card"/></a>
-- 🔭 I’m currently working on https://zktech.solutions/
+- 🔭 I’m currently working on [https://zktech.solutions/](https://www.acquiro.com.ph/)
 - 📫 How to reach me: ghie.gaviola17@gmail.com
 - :round_pushpin: My location is Navotas, Metro Manila
 
@@ -31,9 +31,14 @@ LiannetSys Inc (2018 - 2021)
 http://liannetsys.com/ 
 
 #### Software Developer
-ZK TECH I.T. SOLUTIONS (2021 - present)
+ZK TECH I.T. SOLUTIONS (2021 - 2023)
 
 https://zktech.solutions/
+
+### Backend Developer NODE JS
+Acquiro
+
+https://www.acquiro.com.ph/
 
 
 ### Software Tools/Programming Languages 
