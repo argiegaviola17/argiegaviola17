@@ -14,16 +14,16 @@ College graduate in Bachelor of Science in Computer Science
 
 
 ### Work Experience
-#### Web developer/ Graphic Artist
-8 hug int'l (April 2016 - October 2016)
 
-(7 months)
-http://www.hug.com.ph/
+### Backend Developer NODE JS
+Acquiro
+
+https://www.acquiro.com.ph/
 
 #### Software Developer
-Synerteq Systems Solutions And Services Inc. (2016 - 2018)
+ZK TECH I.T. SOLUTIONS (2021 - 2023)
 
-http://synerteqsys.com/
+https://zktech.solutions/
 
 #### Software Developer
 LiannetSys Inc (2018 - 2021)
@@ -31,16 +31,17 @@ LiannetSys Inc (2018 - 2021)
 http://liannetsys.com/ 
 
 #### Software Developer
-ZK TECH I.T. SOLUTIONS (2021 - 2023)
+Synerteq Systems Solutions And Services Inc. (2016 - 2018)
 
-https://zktech.solutions/
+http://synerteqsys.com/
 
-### Backend Developer NODE JS
-Acquiro
+#### Web developer/ Graphic Artist
+8 hug int'l (April 2016 - October 2016)
 
-https://www.acquiro.com.ph/
+(7 months)
+http://www.hug.com.ph/
 
-
+ 
 ### Software Tools/Programming Languages 
 - elastic search
 - AWS server
