@@ -15,6 +15,11 @@ College graduate in Bachelor of Science in Computer Science
 
 ### Work Experience
 
+
+#### Backend Developer NODE JS
+Collabera
+
+
 #### Backend Developer NODE JS
 Acquiro
 
