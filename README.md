@@ -1,6 +1,6 @@
 Hi 👋 Welcome to Argie Profile!
 
-🥑 Software Developer / Backend Developer / Blockchain Developer / Fullstack Developer
+🥑 Software Developer / Backend Developer / Blockchain Developer / Senior Fullstack Developer
 
 <a href="https://app.daily.dev/argie"><img src="https://api.daily.dev/devcards/f6da7c6cae924cc4b498fa0d1ddcbf29.png?r=ikr" width="400" alt="argie gaviola's Dev Card"/></a>
 - 🔭 I’m currently working on (https://www.collaberadigital.com/)
@@ -18,6 +18,8 @@ College graduate in Bachelor of Science in Computer Science
 
 ### Work Experience
 
+#### Senior Full Stack Developer 
+ASA Phil
 
 #### Backend Developer NODE JS
 Collabera
